@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cseclassroomadmin/static/css/main.166de2f5.css",
+    "main.js": "/cseclassroomadmin/static/js/main.a53351e9.js",
+    "index.html": "/cseclassroomadmin/index.html",
+    "main.166de2f5.css.map": "/cseclassroomadmin/static/css/main.166de2f5.css.map",
+    "main.a53351e9.js.map": "/cseclassroomadmin/static/js/main.a53351e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.166de2f5.css",
+    "static/js/main.a53351e9.js"
+  ]
+}
