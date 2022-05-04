@@ -1,0 +1,81 @@
+.material-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.material{
+  width: 300px;
+  margin-top: 20px;
+  border-radius: 5px;
+  background: linear-gradient(to right, orange, rgb(245, 204, 128));
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: black;
+}
+.material h4{
+  padding-left: 10px;
+
+}
+.material .icon{
+  font-size: 40px;
+}
+.wholematerialcontainer{
+  height: 100vh;
+}
+.add_btn{
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgb(34, 34, 34);
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.add_btn p{
+  padding-top: 10px;
+  font-size: 20pt;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  padding-top: 80px;
+}
+.submit-btn{
+  width: 100px;
+  border: none;
+}
+input::placeholder{
+  padding-left: 5px;
+}
+.back_btn{
+  position: fixed;
+  color: white;
+  font-size: x-large;
+  top: 10px;
+  left: 20px;
+}
